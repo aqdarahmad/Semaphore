@@ -1,4 +1,4 @@
-                   
+ //                  
 module semaphore_example;
 semaphore sema = new(1);
 
